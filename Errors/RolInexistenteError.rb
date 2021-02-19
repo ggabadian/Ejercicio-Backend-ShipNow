@@ -1,0 +1,2 @@
+class PermisosInsuficientesError < StandardError
+end

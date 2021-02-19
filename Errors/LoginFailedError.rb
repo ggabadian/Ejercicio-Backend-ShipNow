@@ -1,0 +1,2 @@
+class LoginFailedError < StandardError
+end

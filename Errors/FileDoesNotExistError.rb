@@ -1,0 +1,2 @@
+class FileDoesNotExistError < StandardError
+end

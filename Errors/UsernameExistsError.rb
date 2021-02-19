@@ -1,0 +1,2 @@
+class UsernameExistsError < StandardError
+end
